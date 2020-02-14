@@ -1,0 +1,17 @@
+1. in style.css I add
+
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+
+
+2.  I modified the json file where those 
+img tag is added with class='responsive'
+i.e
+
+
+<img src=\"https://cdnpuc.sinchew.com.my/pic/2020-02/13/d78a235e-e06c-4699-90c5-910132c9eaa0f0f1dadb-a839-4f1b-9757-1f4748a55266.jpg\" style=\"\" title=\"\"  class='responsive'/>
+
